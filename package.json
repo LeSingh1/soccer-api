@@ -1,11 +1,11 @@
 {
   "name": "soccer-api",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "module",
   "private": false,
-  "description": "Unofficial Node client for ESPN's soccer (Premier League) API",
+  "description": "Unofficial Node client for ESPN's soccer (Premier League) API, with parsers",
   "scripts": {
-    "test": "node tests/sports.test.js",
+    "test": "node tests/api.test.js",
     "scoreboard": "node examples/scoreboard.js"
   },
   "license": "MIT",
