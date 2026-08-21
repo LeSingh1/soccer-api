@@ -1,0 +1,31 @@
+{
+  "sport": "soccer",
+  "league": "eng.1",
+  "date": "20260821",
+  "count": 1,
+  "games": [
+    {
+      "id": "401879301",
+      "name": "Coventry City at Arsenal",
+      "shortName": "COV @ ARS",
+      "date": "2026-08-21T19:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "completed": false,
+      "home": {
+        "id": "359",
+        "abbr": "ARS",
+        "name": "Arsenal",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "id": "388",
+        "abbr": "COV",
+        "name": "Coventry City",
+        "score": "0",
+        "winner": false
+      }
+    }
+  ]
+}
