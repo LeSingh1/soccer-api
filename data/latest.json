@@ -1,74 +1,28 @@
 {
   "sport": "soccer",
   "league": "eng.1",
-  "date": "20260823",
-  "count": 3,
+  "date": "20260824",
+  "count": 1,
   "games": [
     {
-      "id": "401879297",
-      "name": "Aston Villa at Brighton & Hove Albion",
-      "shortName": "AVL @ BHA",
-      "date": "2026-08-23T13:00Z",
+      "id": "401879318",
+      "name": "Chelsea at Fulham",
+      "shortName": "CHE @ FUL",
+      "date": "2026-08-24T19:00Z",
       "state": "pre",
       "status": "Scheduled",
       "completed": false,
       "home": {
-        "id": "331",
-        "abbr": "BHA",
-        "name": "Brighton & Hove Albion",
+        "id": "370",
+        "abbr": "FUL",
+        "name": "Fulham",
         "score": "0",
         "winner": false
       },
       "away": {
-        "id": "362",
-        "abbr": "AVL",
-        "name": "Aston Villa",
-        "score": "0",
-        "winner": false
-      }
-    },
-    {
-      "id": "401879320",
-      "name": "AFC Bournemouth at Manchester City",
-      "shortName": "BOU @ MNC",
-      "date": "2026-08-23T13:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "completed": false,
-      "home": {
-        "id": "382",
-        "abbr": "MNC",
-        "name": "Manchester City",
-        "score": "0",
-        "winner": false
-      },
-      "away": {
-        "id": "349",
-        "abbr": "BOU",
-        "name": "AFC Bournemouth",
-        "score": "0",
-        "winner": false
-      }
-    },
-    {
-      "id": "401879319",
-      "name": "Liverpool at Newcastle United",
-      "shortName": "LIV @ NEW",
-      "date": "2026-08-23T15:30Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "completed": false,
-      "home": {
-        "id": "361",
-        "abbr": "NEW",
-        "name": "Newcastle United",
-        "score": "0",
-        "winner": false
-      },
-      "away": {
-        "id": "364",
-        "abbr": "LIV",
-        "name": "Liverpool",
+        "id": "363",
+        "abbr": "CHE",
+        "name": "Chelsea",
         "score": "0",
         "winner": false
       }
