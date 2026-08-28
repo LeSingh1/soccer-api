@@ -1,30 +1,30 @@
 {
   "sport": "soccer",
   "league": "eng.1",
-  "date": "20260824",
+  "date": "20260828",
   "count": 1,
   "games": [
     {
-      "id": "401879318",
-      "name": "Chelsea at Fulham",
-      "shortName": "CHE @ FUL",
-      "date": "2026-08-24T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "completed": false,
+      "id": "401879294",
+      "name": "Manchester City at Crystal Palace",
+      "shortName": "MNC @ CRY",
+      "date": "2026-08-28T19:00Z",
+      "state": "post",
+      "status": "FT",
+      "completed": true,
       "home": {
-        "id": "370",
-        "abbr": "FUL",
-        "name": "Fulham",
-        "score": "0",
+        "id": "384",
+        "abbr": "CRY",
+        "name": "Crystal Palace",
+        "score": "1",
         "winner": false
       },
       "away": {
-        "id": "363",
-        "abbr": "CHE",
-        "name": "Chelsea",
-        "score": "0",
-        "winner": false
+        "id": "382",
+        "abbr": "MNC",
+        "name": "Manchester City",
+        "score": "4",
+        "winner": true
       }
     }
   ]
