@@ -1,30 +1,99 @@
 {
   "sport": "soccer",
   "league": "eng.1",
-  "date": "20260828",
-  "count": 1,
+  "date": "20260829",
+  "count": 4,
   "games": [
     {
-      "id": "401879294",
-      "name": "Manchester City at Crystal Palace",
-      "shortName": "MNC @ CRY",
-      "date": "2026-08-28T19:00Z",
+      "id": "401879314",
+      "name": "Nottingham Forest at Liverpool",
+      "shortName": "NFO @ LIV",
+      "date": "2026-08-29T11:30Z",
       "state": "post",
       "status": "FT",
       "completed": true,
       "home": {
-        "id": "384",
-        "abbr": "CRY",
-        "name": "Crystal Palace",
+        "id": "364",
+        "abbr": "LIV",
+        "name": "Liverpool",
+        "score": "2",
+        "winner": false
+      },
+      "away": {
+        "id": "393",
+        "abbr": "NFO",
+        "name": "Nottingham Forest",
+        "score": "2",
+        "winner": false
+      }
+    },
+    {
+      "id": "401879296",
+      "name": "Everton at AFC Bournemouth",
+      "shortName": "EVE @ BOU",
+      "date": "2026-08-29T14:00Z",
+      "state": "post",
+      "status": "FT",
+      "completed": true,
+      "home": {
+        "id": "349",
+        "abbr": "BOU",
+        "name": "AFC Bournemouth",
         "score": "1",
         "winner": false
       },
       "away": {
-        "id": "382",
-        "abbr": "MNC",
-        "name": "Manchester City",
-        "score": "4",
+        "id": "368",
+        "abbr": "EVE",
+        "name": "Everton",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "401879316",
+      "name": "Hull City at Coventry City",
+      "shortName": "HUL @ COV",
+      "date": "2026-08-29T14:00Z",
+      "state": "post",
+      "status": "FT",
+      "completed": true,
+      "home": {
+        "id": "388",
+        "abbr": "COV",
+        "name": "Coventry City",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "id": "306",
+        "abbr": "HUL",
+        "name": "Hull City",
+        "score": "1",
         "winner": true
+      }
+    },
+    {
+      "id": "401879312",
+      "name": "Newcastle United at Tottenham Hotspur",
+      "shortName": "NEW @ TOT",
+      "date": "2026-08-29T16:30Z",
+      "state": "in",
+      "status": "12'",
+      "completed": false,
+      "home": {
+        "id": "367",
+        "abbr": "TOT",
+        "name": "Tottenham Hotspur",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "id": "361",
+        "abbr": "NEW",
+        "name": "Newcastle United",
+        "score": "0",
+        "winner": false
       }
     }
   ]
