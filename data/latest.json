@@ -1,28 +1,28 @@
 {
   "sport": "soccer",
   "league": "eng.1",
-  "date": "20260831",
+  "date": "20260904",
   "count": 1,
   "games": [
     {
-      "id": "401879295",
-      "name": "Arsenal at Aston Villa",
-      "shortName": "ARS @ AVL",
-      "date": "2026-08-31T19:00Z",
-      "state": "in",
-      "status": "7'",
+      "id": "401879288",
+      "name": "Liverpool at Ipswich Town",
+      "shortName": "LIV @ IPS",
+      "date": "2026-09-04T19:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "completed": false,
       "home": {
-        "id": "362",
-        "abbr": "AVL",
-        "name": "Aston Villa",
+        "id": "373",
+        "abbr": "IPS",
+        "name": "Ipswich Town",
         "score": "0",
         "winner": false
       },
       "away": {
-        "id": "359",
-        "abbr": "ARS",
-        "name": "Arsenal",
+        "id": "364",
+        "abbr": "LIV",
+        "name": "Liverpool",
         "score": "0",
         "winner": false
       }
