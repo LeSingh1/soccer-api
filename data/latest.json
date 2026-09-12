@@ -1,51 +1,166 @@
 {
   "sport": "soccer",
   "league": "eng.1",
-  "date": "20260906",
-  "count": 2,
+  "date": "20260912",
+  "count": 7,
   "games": [
     {
-      "id": "401879291",
-      "name": "Manchester United at Everton",
-      "shortName": "MAN @ EVE",
-      "date": "2026-09-06T13:00Z",
-      "state": "post",
-      "status": "FT",
-      "completed": true,
+      "id": "401879285",
+      "name": "Brentford at AFC Bournemouth",
+      "shortName": "BRE @ BOU",
+      "date": "2026-09-12T14:00Z",
+      "state": "in",
+      "status": "67'",
+      "completed": false,
       "home": {
-        "id": "368",
-        "abbr": "EVE",
-        "name": "Everton",
+        "id": "349",
+        "abbr": "BOU",
+        "name": "AFC Bournemouth",
         "score": "2",
         "winner": false
       },
       "away": {
-        "id": "360",
-        "abbr": "MAN",
-        "name": "Manchester United",
+        "id": "337",
+        "abbr": "BRE",
+        "name": "Brentford",
         "score": "2",
         "winner": false
       }
     },
     {
-      "id": "401879292",
-      "name": "Chelsea at Arsenal",
-      "shortName": "CHE @ ARS",
-      "date": "2026-09-06T15:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "id": "401879284",
+      "name": "Nottingham Forest at Aston Villa",
+      "shortName": "NFO @ AVL",
+      "date": "2026-09-12T14:00Z",
+      "state": "in",
+      "status": "69'",
       "completed": false,
       "home": {
-        "id": "359",
-        "abbr": "ARS",
-        "name": "Arsenal",
+        "id": "362",
+        "abbr": "AVL",
+        "name": "Aston Villa",
         "score": "0",
         "winner": false
       },
       "away": {
+        "id": "393",
+        "abbr": "NFO",
+        "name": "Nottingham Forest",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "401879283",
+      "name": "Hull City at Chelsea",
+      "shortName": "HUL @ CHE",
+      "date": "2026-09-12T14:00Z",
+      "state": "in",
+      "status": "71'",
+      "completed": false,
+      "home": {
         "id": "363",
         "abbr": "CHE",
         "name": "Chelsea",
+        "score": "2",
+        "winner": false
+      },
+      "away": {
+        "id": "306",
+        "abbr": "HUL",
+        "name": "Hull City",
+        "score": "2",
+        "winner": false
+      }
+    },
+    {
+      "id": "401879281",
+      "name": "Ipswich Town at Crystal Palace",
+      "shortName": "IPS @ CRY",
+      "date": "2026-09-12T14:00Z",
+      "state": "in",
+      "status": "67'",
+      "completed": false,
+      "home": {
+        "id": "384",
+        "abbr": "CRY",
+        "name": "Crystal Palace",
+        "score": "1",
+        "winner": false
+      },
+      "away": {
+        "id": "373",
+        "abbr": "IPS",
+        "name": "Ipswich Town",
+        "score": "2",
+        "winner": false
+      }
+    },
+    {
+      "id": "401879279",
+      "name": "Fulham at Liverpool",
+      "shortName": "FUL @ LIV",
+      "date": "2026-09-12T14:00Z",
+      "state": "in",
+      "status": "73'",
+      "completed": false,
+      "home": {
+        "id": "364",
+        "abbr": "LIV",
+        "name": "Liverpool",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "id": "370",
+        "abbr": "FUL",
+        "name": "Fulham",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "401879277",
+      "name": "Everton at Tottenham Hotspur",
+      "shortName": "EVE @ TOT",
+      "date": "2026-09-12T16:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "completed": false,
+      "home": {
+        "id": "367",
+        "abbr": "TOT",
+        "name": "Tottenham Hotspur",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "id": "368",
+        "abbr": "EVE",
+        "name": "Everton",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "401878779",
+      "name": "Arsenal at Sunderland",
+      "shortName": "ARS @ SUN",
+      "date": "2026-09-12T19:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "completed": false,
+      "home": {
+        "id": "366",
+        "abbr": "SUN",
+        "name": "Sunderland",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "id": "359",
+        "abbr": "ARS",
+        "name": "Arsenal",
         "score": "0",
         "winner": false
       }
