@@ -1,51 +1,28 @@
 {
   "sport": "soccer",
   "league": "eng.1",
-  "date": "20260913",
-  "count": 2,
+  "date": "20260914",
+  "count": 1,
   "games": [
     {
-      "id": "401879282",
-      "name": "Brighton & Hove Albion at Coventry City",
-      "shortName": "BHA @ COV",
-      "date": "2026-09-13T13:00Z",
-      "state": "post",
-      "status": "FT",
-      "completed": true,
-      "home": {
-        "id": "388",
-        "abbr": "COV",
-        "name": "Coventry City",
-        "score": "0",
-        "winner": false
-      },
-      "away": {
-        "id": "331",
-        "abbr": "BHA",
-        "name": "Brighton & Hove Albion",
-        "score": "5",
-        "winner": true
-      }
-    },
-    {
-      "id": "401879278",
-      "name": "Manchester City at Manchester United",
-      "shortName": "MNC @ MAN",
-      "date": "2026-09-13T15:30Z",
-      "state": "in",
-      "status": "44'",
+      "id": "401879280",
+      "name": "Newcastle United at Leeds United",
+      "shortName": "NEW @ LEE",
+      "date": "2026-09-14T19:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "completed": false,
       "home": {
-        "id": "360",
-        "abbr": "MAN",
-        "name": "Manchester United",
+        "id": "357",
+        "abbr": "LEE",
+        "name": "Leeds United",
         "score": "0",
         "winner": false
       },
       "away": {
-        "id": "382",
-        "abbr": "MNC",
-        "name": "Manchester City",
+        "id": "361",
+        "abbr": "NEW",
+        "name": "Newcastle United",
         "score": "0",
         "winner": false
       }
