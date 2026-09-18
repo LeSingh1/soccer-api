@@ -1,28 +1,28 @@
 {
   "sport": "soccer",
   "league": "eng.1",
-  "date": "20260914",
+  "date": "20260918",
   "count": 1,
   "games": [
     {
-      "id": "401879280",
-      "name": "Newcastle United at Leeds United",
-      "shortName": "NEW @ LEE",
-      "date": "2026-09-14T19:00Z",
+      "id": "401879275",
+      "name": "Chelsea at Brentford",
+      "shortName": "CHE @ BRE",
+      "date": "2026-09-18T19:00Z",
       "state": "pre",
       "status": "Scheduled",
       "completed": false,
       "home": {
-        "id": "357",
-        "abbr": "LEE",
-        "name": "Leeds United",
+        "id": "337",
+        "abbr": "BRE",
+        "name": "Brentford",
         "score": "0",
         "winner": false
       },
       "away": {
-        "id": "361",
-        "abbr": "NEW",
-        "name": "Newcastle United",
+        "id": "363",
+        "abbr": "CHE",
+        "name": "Chelsea",
         "score": "0",
         "winner": false
       }
