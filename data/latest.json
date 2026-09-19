@@ -1,28 +1,120 @@
 {
   "sport": "soccer",
   "league": "eng.1",
-  "date": "20260918",
-  "count": 1,
+  "date": "20260919",
+  "count": 5,
   "games": [
     {
-      "id": "401879275",
-      "name": "Chelsea at Brentford",
-      "shortName": "CHE @ BRE",
-      "date": "2026-09-18T19:00Z",
+      "id": "401879269",
+      "name": "Aston Villa at Tottenham Hotspur",
+      "shortName": "AVL @ TOT",
+      "date": "2026-09-19T11:30Z",
+      "state": "post",
+      "status": "FT",
+      "completed": true,
+      "home": {
+        "id": "367",
+        "abbr": "TOT",
+        "name": "Tottenham Hotspur",
+        "score": "2",
+        "winner": false
+      },
+      "away": {
+        "id": "362",
+        "abbr": "AVL",
+        "name": "Aston Villa",
+        "score": "3",
+        "winner": true
+      }
+    },
+    {
+      "id": "401879274",
+      "name": "Arsenal at Brighton & Hove Albion",
+      "shortName": "ARS @ BHA",
+      "date": "2026-09-19T14:00Z",
+      "state": "in",
+      "status": "90'+3'",
+      "completed": false,
+      "home": {
+        "id": "331",
+        "abbr": "BHA",
+        "name": "Brighton & Hove Albion",
+        "score": "3",
+        "winner": false
+      },
+      "away": {
+        "id": "359",
+        "abbr": "ARS",
+        "name": "Arsenal",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "401878778",
+      "name": "Ipswich Town at Everton",
+      "shortName": "IPS @ EVE",
+      "date": "2026-09-19T14:00Z",
+      "state": "in",
+      "status": "90'+4'",
+      "completed": false,
+      "home": {
+        "id": "368",
+        "abbr": "EVE",
+        "name": "Everton",
+        "score": "1",
+        "winner": false
+      },
+      "away": {
+        "id": "373",
+        "abbr": "IPS",
+        "name": "Ipswich Town",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "401879271",
+      "name": "Hull City at Newcastle United",
+      "shortName": "HUL @ NEW",
+      "date": "2026-09-19T14:00Z",
+      "state": "in",
+      "status": "90'",
+      "completed": false,
+      "home": {
+        "id": "361",
+        "abbr": "NEW",
+        "name": "Newcastle United",
+        "score": "2",
+        "winner": false
+      },
+      "away": {
+        "id": "306",
+        "abbr": "HUL",
+        "name": "Hull City",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "401879270",
+      "name": "Coventry City at Nottingham Forest",
+      "shortName": "COV @ NFO",
+      "date": "2026-09-19T16:30Z",
       "state": "pre",
       "status": "Scheduled",
       "completed": false,
       "home": {
-        "id": "337",
-        "abbr": "BRE",
-        "name": "Brentford",
+        "id": "393",
+        "abbr": "NFO",
+        "name": "Nottingham Forest",
         "score": "0",
         "winner": false
       },
       "away": {
-        "id": "363",
-        "abbr": "CHE",
-        "name": "Chelsea",
+        "id": "388",
+        "abbr": "COV",
+        "name": "Coventry City",
         "score": "0",
         "winner": false
       }
