@@ -1,120 +1,97 @@
 {
   "sport": "soccer",
   "league": "eng.1",
-  "date": "20260919",
-  "count": 5,
+  "date": "20260920",
+  "count": 4,
   "games": [
     {
-      "id": "401879269",
-      "name": "Aston Villa at Tottenham Hotspur",
-      "shortName": "AVL @ TOT",
-      "date": "2026-09-19T11:30Z",
+      "id": "401879276",
+      "name": "Liverpool at AFC Bournemouth",
+      "shortName": "LIV @ BOU",
+      "date": "2026-09-20T13:00Z",
       "state": "post",
       "status": "FT",
       "completed": true,
       "home": {
-        "id": "367",
-        "abbr": "TOT",
-        "name": "Tottenham Hotspur",
-        "score": "2",
+        "id": "349",
+        "abbr": "BOU",
+        "name": "AFC Bournemouth",
+        "score": "0",
         "winner": false
       },
       "away": {
-        "id": "362",
-        "abbr": "AVL",
-        "name": "Aston Villa",
-        "score": "3",
+        "id": "364",
+        "abbr": "LIV",
+        "name": "Liverpool",
+        "score": "1",
         "winner": true
       }
     },
     {
-      "id": "401879274",
-      "name": "Arsenal at Brighton & Hove Albion",
-      "shortName": "ARS @ BHA",
-      "date": "2026-09-19T14:00Z",
-      "state": "in",
-      "status": "90'+3'",
-      "completed": false,
+      "id": "401879273",
+      "name": "Crystal Palace at Leeds United",
+      "shortName": "CRY @ LEE",
+      "date": "2026-09-20T13:00Z",
+      "state": "post",
+      "status": "FT",
+      "completed": true,
       "home": {
-        "id": "331",
-        "abbr": "BHA",
-        "name": "Brighton & Hove Albion",
+        "id": "357",
+        "abbr": "LEE",
+        "name": "Leeds United",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "id": "384",
+        "abbr": "CRY",
+        "name": "Crystal Palace",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "401879272",
+      "name": "Sunderland at Manchester City",
+      "shortName": "SUN @ MNC",
+      "date": "2026-09-20T13:00Z",
+      "state": "post",
+      "status": "FT",
+      "completed": true,
+      "home": {
+        "id": "382",
+        "abbr": "MNC",
+        "name": "Manchester City",
+        "score": "5",
+        "winner": true
+      },
+      "away": {
+        "id": "366",
+        "abbr": "SUN",
+        "name": "Sunderland",
         "score": "3",
         "winner": false
-      },
-      "away": {
-        "id": "359",
-        "abbr": "ARS",
-        "name": "Arsenal",
-        "score": "0",
-        "winner": false
       }
     },
     {
-      "id": "401878778",
-      "name": "Ipswich Town at Everton",
-      "shortName": "IPS @ EVE",
-      "date": "2026-09-19T14:00Z",
+      "id": "401878777",
+      "name": "Manchester United at Fulham",
+      "shortName": "MAN @ FUL",
+      "date": "2026-09-20T15:30Z",
       "state": "in",
-      "status": "90'+4'",
+      "status": "33'",
       "completed": false,
       "home": {
-        "id": "368",
-        "abbr": "EVE",
-        "name": "Everton",
-        "score": "1",
-        "winner": false
-      },
-      "away": {
-        "id": "373",
-        "abbr": "IPS",
-        "name": "Ipswich Town",
-        "score": "0",
-        "winner": false
-      }
-    },
-    {
-      "id": "401879271",
-      "name": "Hull City at Newcastle United",
-      "shortName": "HUL @ NEW",
-      "date": "2026-09-19T14:00Z",
-      "state": "in",
-      "status": "90'",
-      "completed": false,
-      "home": {
-        "id": "361",
-        "abbr": "NEW",
-        "name": "Newcastle United",
-        "score": "2",
-        "winner": false
-      },
-      "away": {
-        "id": "306",
-        "abbr": "HUL",
-        "name": "Hull City",
-        "score": "1",
-        "winner": false
-      }
-    },
-    {
-      "id": "401879270",
-      "name": "Coventry City at Nottingham Forest",
-      "shortName": "COV @ NFO",
-      "date": "2026-09-19T16:30Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "completed": false,
-      "home": {
-        "id": "393",
-        "abbr": "NFO",
-        "name": "Nottingham Forest",
+        "id": "370",
+        "abbr": "FUL",
+        "name": "Fulham",
         "score": "0",
         "winner": false
       },
       "away": {
-        "id": "388",
-        "abbr": "COV",
-        "name": "Coventry City",
+        "id": "360",
+        "abbr": "MAN",
+        "name": "Manchester United",
         "score": "0",
         "winner": false
       }
