@@ -1,76 +1,30 @@
 {
   "sport": "soccer",
   "league": "eng.1",
-  "date": "20261011",
-  "count": 3,
+  "date": "20261012",
+  "count": 1,
   "games": [
     {
-      "id": "401879266",
-      "name": "Nottingham Forest at Crystal Palace",
-      "shortName": "NFO @ CRY",
-      "date": "2026-10-11T13:00Z",
+      "id": "401879267",
+      "name": "Newcastle United at Coventry City",
+      "shortName": "NEW @ COV",
+      "date": "2026-10-12T19:00Z",
       "state": "post",
       "status": "FT",
       "completed": true,
       "home": {
-        "id": "384",
-        "abbr": "CRY",
-        "name": "Crystal Palace",
-        "score": "3",
+        "id": "388",
+        "abbr": "COV",
+        "name": "Coventry City",
+        "score": "4",
         "winner": true
       },
       "away": {
-        "id": "393",
-        "abbr": "NFO",
-        "name": "Nottingham Forest",
+        "id": "361",
+        "abbr": "NEW",
+        "name": "Newcastle United",
         "score": "1",
         "winner": false
-      }
-    },
-    {
-      "id": "401878774",
-      "name": "Everton at Hull City",
-      "shortName": "EVE @ HUL",
-      "date": "2026-10-11T13:00Z",
-      "state": "post",
-      "status": "FT",
-      "completed": true,
-      "home": {
-        "id": "306",
-        "abbr": "HUL",
-        "name": "Hull City",
-        "score": "2",
-        "winner": false
-      },
-      "away": {
-        "id": "368",
-        "abbr": "EVE",
-        "name": "Everton",
-        "score": "2",
-        "winner": false
-      }
-    },
-    {
-      "id": "401879264",
-      "name": "Manchester City at Liverpool",
-      "shortName": "MNC @ LIV",
-      "date": "2026-10-11T15:30Z",
-      "state": "post",
-      "status": "FT",
-      "completed": true,
-      "home": {
-        "id": "364",
-        "abbr": "LIV",
-        "name": "Liverpool",
-        "score": "0",
-        "winner": false
-      },
-      "away": {
-        "id": "382",
-        "abbr": "MNC",
-        "name": "Manchester City",
-        "score": "3",
-        "winner": true
       }
     }
   ]
