@@ -1,29 +1,121 @@
 {
   "sport": "soccer",
   "league": "eng.1",
-  "date": "20261012",
-  "count": 1,
+  "date": "20261017",
+  "count": 5,
   "games": [
     {
-      "id": "401879267",
-      "name": "Newcastle United at Coventry City",
-      "shortName": "NEW @ COV",
-      "date": "2026-10-12T19:00Z",
+      "id": "401878771",
+      "name": "Chelsea at Everton",
+      "shortName": "CHE @ EVE",
+      "date": "2026-10-17T11:30Z",
       "state": "post",
       "status": "FT",
       "completed": true,
       "home": {
-        "id": "388",
-        "abbr": "COV",
-        "name": "Coventry City",
-        "score": "4",
-        "winner": true
+        "id": "368",
+        "abbr": "EVE",
+        "name": "Everton",
+        "score": "0",
+        "winner": false
       },
       "away": {
+        "id": "363",
+        "abbr": "CHE",
+        "name": "Chelsea",
+        "score": "2",
+        "winner": true
+      }
+    },
+    {
+      "id": "401879262",
+      "name": "Liverpool at Brentford",
+      "shortName": "LIV @ BRE",
+      "date": "2026-10-17T14:00Z",
+      "state": "in",
+      "status": "63'",
+      "completed": false,
+      "home": {
+        "id": "337",
+        "abbr": "BRE",
+        "name": "Brentford",
+        "score": "1",
+        "winner": false
+      },
+      "away": {
+        "id": "364",
+        "abbr": "LIV",
+        "name": "Liverpool",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "401878770",
+      "name": "Hull City at Fulham",
+      "shortName": "HUL @ FUL",
+      "date": "2026-10-17T14:00Z",
+      "state": "in",
+      "status": "73'",
+      "completed": false,
+      "home": {
+        "id": "370",
+        "abbr": "FUL",
+        "name": "Fulham",
+        "score": "1",
+        "winner": false
+      },
+      "away": {
+        "id": "306",
+        "abbr": "HUL",
+        "name": "Hull City",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "401879259",
+      "name": "Ipswich Town at Manchester City",
+      "shortName": "IPS @ MNC",
+      "date": "2026-10-17T14:00Z",
+      "state": "in",
+      "status": "70'",
+      "completed": false,
+      "home": {
+        "id": "382",
+        "abbr": "MNC",
+        "name": "Manchester City",
+        "score": "3",
+        "winner": false
+      },
+      "away": {
+        "id": "373",
+        "abbr": "IPS",
+        "name": "Ipswich Town",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "401879258",
+      "name": "Aston Villa at Newcastle United",
+      "shortName": "AVL @ NEW",
+      "date": "2026-10-17T16:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "completed": false,
+      "home": {
         "id": "361",
         "abbr": "NEW",
         "name": "Newcastle United",
-        "score": "1",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "id": "362",
+        "abbr": "AVL",
+        "name": "Aston Villa",
+        "score": "0",
         "winner": false
       }
     }
