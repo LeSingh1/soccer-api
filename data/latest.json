@@ -1,28 +1,28 @@
 {
   "sport": "soccer",
   "league": "eng.1",
-  "date": "20261019",
+  "date": "20261023",
   "count": 1,
   "games": [
     {
-      "id": "401879257",
-      "name": "Coventry City at Tottenham Hotspur",
-      "shortName": "COV @ TOT",
-      "date": "2026-10-19T19:00Z",
+      "id": "401879253",
+      "name": "Nottingham Forest at Ipswich Town",
+      "shortName": "NFO @ IPS",
+      "date": "2026-10-23T19:00Z",
       "state": "pre",
       "status": "Scheduled",
       "completed": false,
       "home": {
-        "id": "367",
-        "abbr": "TOT",
-        "name": "Tottenham Hotspur",
+        "id": "373",
+        "abbr": "IPS",
+        "name": "Ipswich Town",
         "score": "0",
         "winner": false
       },
       "away": {
-        "id": "388",
-        "abbr": "COV",
-        "name": "Coventry City",
+        "id": "393",
+        "abbr": "NFO",
+        "name": "Nottingham Forest",
         "score": "0",
         "winner": false
       }
