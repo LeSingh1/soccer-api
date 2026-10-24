@@ -1,28 +1,97 @@
 {
   "sport": "soccer",
   "league": "eng.1",
-  "date": "20261023",
-  "count": 1,
+  "date": "20261024",
+  "count": 4,
   "games": [
     {
-      "id": "401879253",
-      "name": "Nottingham Forest at Ipswich Town",
-      "shortName": "NFO @ IPS",
-      "date": "2026-10-23T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "id": "401879256",
+      "name": "Manchester City at Aston Villa",
+      "shortName": "MNC @ AVL",
+      "date": "2026-10-24T11:30Z",
+      "state": "post",
+      "status": "FT",
+      "completed": true,
+      "home": {
+        "id": "362",
+        "abbr": "AVL",
+        "name": "Aston Villa",
+        "score": "2",
+        "winner": true
+      },
+      "away": {
+        "id": "382",
+        "abbr": "MNC",
+        "name": "Manchester City",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "401878768",
+      "name": "Everton at Arsenal",
+      "shortName": "EVE @ ARS",
+      "date": "2026-10-24T14:00Z",
+      "state": "in",
+      "status": "90'+6'",
       "completed": false,
       "home": {
-        "id": "373",
-        "abbr": "IPS",
-        "name": "Ipswich Town",
+        "id": "359",
+        "abbr": "ARS",
+        "name": "Arsenal",
+        "score": "2",
+        "winner": false
+      },
+      "away": {
+        "id": "368",
+        "abbr": "EVE",
+        "name": "Everton",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "401879255",
+      "name": "Fulham at Coventry City",
+      "shortName": "FUL @ COV",
+      "date": "2026-10-24T14:00Z",
+      "state": "in",
+      "status": "90'+6'",
+      "completed": false,
+      "home": {
+        "id": "388",
+        "abbr": "COV",
+        "name": "Coventry City",
         "score": "0",
         "winner": false
       },
       "away": {
-        "id": "393",
-        "abbr": "NFO",
-        "name": "Nottingham Forest",
+        "id": "370",
+        "abbr": "FUL",
+        "name": "Fulham",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "401878767",
+      "name": "Tottenham Hotspur at Chelsea",
+      "shortName": "TOT @ CHE",
+      "date": "2026-10-24T16:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "completed": false,
+      "home": {
+        "id": "363",
+        "abbr": "CHE",
+        "name": "Chelsea",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "id": "367",
+        "abbr": "TOT",
+        "name": "Tottenham Hotspur",
         "score": "0",
         "winner": false
       }
