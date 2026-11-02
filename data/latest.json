@@ -1,28 +1,28 @@
 {
   "sport": "soccer",
   "league": "eng.1",
-  "date": "20261101",
+  "date": "20261102",
   "count": 1,
   "games": [
     {
-      "id": "401879246",
-      "name": "Arsenal at Liverpool",
-      "shortName": "ARS @ LIV",
-      "date": "2026-11-01T16:30Z",
+      "id": "401878762",
+      "name": "Everton at Newcastle United",
+      "shortName": "EVE @ NEW",
+      "date": "2026-11-02T20:00Z",
       "state": "in",
-      "status": "65'",
+      "status": "83'",
       "completed": false,
       "home": {
-        "id": "364",
-        "abbr": "LIV",
-        "name": "Liverpool",
+        "id": "361",
+        "abbr": "NEW",
+        "name": "Newcastle United",
         "score": "0",
         "winner": false
       },
       "away": {
-        "id": "359",
-        "abbr": "ARS",
-        "name": "Arsenal",
+        "id": "368",
+        "abbr": "EVE",
+        "name": "Everton",
         "score": "1",
         "winner": false
       }
