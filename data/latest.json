@@ -1,29 +1,29 @@
 {
   "sport": "soccer",
   "league": "eng.1",
-  "date": "20261102",
+  "date": "20261106",
   "count": 1,
   "games": [
     {
-      "id": "401878762",
-      "name": "Everton at Newcastle United",
-      "shortName": "EVE @ NEW",
-      "date": "2026-11-02T20:00Z",
-      "state": "in",
-      "status": "83'",
+      "id": "401879242",
+      "name": "Coventry City at Everton",
+      "shortName": "COV @ EVE",
+      "date": "2026-11-06T20:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "completed": false,
       "home": {
-        "id": "361",
-        "abbr": "NEW",
-        "name": "Newcastle United",
+        "id": "368",
+        "abbr": "EVE",
+        "name": "Everton",
         "score": "0",
         "winner": false
       },
       "away": {
-        "id": "368",
-        "abbr": "EVE",
-        "name": "Everton",
-        "score": "1",
+        "id": "388",
+        "abbr": "COV",
+        "name": "Coventry City",
+        "score": "0",
         "winner": false
       }
     }
