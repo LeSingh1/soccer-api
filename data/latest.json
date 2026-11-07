@@ -1,28 +1,97 @@
 {
   "sport": "soccer",
   "league": "eng.1",
-  "date": "20261106",
-  "count": 1,
+  "date": "20261107",
+  "count": 4,
   "games": [
     {
-      "id": "401879242",
-      "name": "Coventry City at Everton",
-      "shortName": "COV @ EVE",
-      "date": "2026-11-06T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "completed": false,
+      "id": "401878758",
+      "name": "Tottenham Hotspur at Leeds United",
+      "shortName": "TOT @ LEE",
+      "date": "2026-11-07T12:30Z",
+      "state": "post",
+      "status": "FT",
+      "completed": true,
       "home": {
-        "id": "368",
-        "abbr": "EVE",
-        "name": "Everton",
+        "id": "357",
+        "abbr": "LEE",
+        "name": "Leeds United",
+        "score": "1",
+        "winner": true
+      },
+      "away": {
+        "id": "367",
+        "abbr": "TOT",
+        "name": "Tottenham Hotspur",
         "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "401878760",
+      "name": "Hull City at Arsenal",
+      "shortName": "HUL @ ARS",
+      "date": "2026-11-07T15:00Z",
+      "state": "post",
+      "status": "FT",
+      "completed": true,
+      "home": {
+        "id": "359",
+        "abbr": "ARS",
+        "name": "Arsenal",
+        "score": "1",
+        "winner": true
+      },
+      "away": {
+        "id": "306",
+        "abbr": "HUL",
+        "name": "Hull City",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "401879241",
+      "name": "Newcastle United at Fulham",
+      "shortName": "NEW @ FUL",
+      "date": "2026-11-07T15:00Z",
+      "state": "post",
+      "status": "FT",
+      "completed": true,
+      "home": {
+        "id": "370",
+        "abbr": "FUL",
+        "name": "Fulham",
+        "score": "1",
         "winner": false
       },
       "away": {
-        "id": "388",
-        "abbr": "COV",
-        "name": "Coventry City",
+        "id": "361",
+        "abbr": "NEW",
+        "name": "Newcastle United",
+        "score": "1",
+        "winner": false
+      }
+    },
+    {
+      "id": "401878757",
+      "name": "Manchester City at Nottingham Forest",
+      "shortName": "MNC @ NFO",
+      "date": "2026-11-07T17:30Z",
+      "state": "in",
+      "status": "12'",
+      "completed": false,
+      "home": {
+        "id": "393",
+        "abbr": "NFO",
+        "name": "Nottingham Forest",
+        "score": "1",
+        "winner": false
+      },
+      "away": {
+        "id": "382",
+        "abbr": "MNC",
+        "name": "Manchester City",
         "score": "0",
         "winner": false
       }
