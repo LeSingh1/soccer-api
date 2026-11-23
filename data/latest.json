@@ -1,51 +1,28 @@
 {
   "sport": "soccer",
   "league": "eng.1",
-  "date": "20261122",
-  "count": 2,
+  "date": "20261123",
+  "count": 1,
   "games": [
     {
-      "id": "401879234",
-      "name": "Brighton & Hove Albion at Hull City",
-      "shortName": "BHA @ HUL",
-      "date": "2026-11-22T14:00Z",
+      "id": "401879237",
+      "name": "Everton at Brentford",
+      "shortName": "EVE @ BRE",
+      "date": "2026-11-23T20:00Z",
       "state": "post",
       "status": "FT",
       "completed": true,
       "home": {
-        "id": "306",
-        "abbr": "HUL",
-        "name": "Hull City",
-        "score": "2",
-        "winner": true
-      },
-      "away": {
-        "id": "331",
-        "abbr": "BHA",
-        "name": "Brighton & Hove Albion",
-        "score": "0",
-        "winner": false
-      }
-    },
-    {
-      "id": "401878755",
-      "name": "Manchester United at Liverpool",
-      "shortName": "MAN @ LIV",
-      "date": "2026-11-22T16:30Z",
-      "state": "post",
-      "status": "FT",
-      "completed": true,
-      "home": {
-        "id": "364",
-        "abbr": "LIV",
-        "name": "Liverpool",
+        "id": "337",
+        "abbr": "BRE",
+        "name": "Brentford",
         "score": "4",
         "winner": true
       },
       "away": {
-        "id": "360",
-        "abbr": "MAN",
-        "name": "Manchester United",
+        "id": "368",
+        "abbr": "EVE",
+        "name": "Everton",
         "score": "0",
         "winner": false
       }
