@@ -1,28 +1,28 @@
 {
   "sport": "soccer",
   "league": "eng.1",
-  "date": "20261123",
+  "date": "20261127",
   "count": 1,
   "games": [
     {
-      "id": "401879237",
-      "name": "Everton at Brentford",
-      "shortName": "EVE @ BRE",
-      "date": "2026-11-23T20:00Z",
-      "state": "post",
-      "status": "FT",
-      "completed": true,
+      "id": "401879225",
+      "name": "Chelsea at Nottingham Forest",
+      "shortName": "CHE @ NFO",
+      "date": "2026-11-27T20:00Z",
+      "state": "in",
+      "status": "54'",
+      "completed": false,
       "home": {
-        "id": "337",
-        "abbr": "BRE",
-        "name": "Brentford",
-        "score": "4",
-        "winner": true
+        "id": "393",
+        "abbr": "NFO",
+        "name": "Nottingham Forest",
+        "score": "2",
+        "winner": false
       },
       "away": {
-        "id": "368",
-        "abbr": "EVE",
-        "name": "Everton",
+        "id": "363",
+        "abbr": "CHE",
+        "name": "Chelsea",
         "score": "0",
         "winner": false
       }
