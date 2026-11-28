@@ -1,29 +1,75 @@
 {
   "sport": "soccer",
   "league": "eng.1",
-  "date": "20261127",
-  "count": 1,
+  "date": "20261128",
+  "count": 3,
   "games": [
     {
-      "id": "401879225",
-      "name": "Chelsea at Nottingham Forest",
-      "shortName": "CHE @ NFO",
-      "date": "2026-11-27T20:00Z",
-      "state": "in",
-      "status": "54'",
-      "completed": false,
+      "id": "401879227",
+      "name": "Coventry City at Leeds United",
+      "shortName": "COV @ LEE",
+      "date": "2026-11-28T15:00Z",
+      "state": "post",
+      "status": "FT",
+      "completed": true,
       "home": {
-        "id": "393",
-        "abbr": "NFO",
-        "name": "Nottingham Forest",
+        "id": "357",
+        "abbr": "LEE",
+        "name": "Leeds United",
+        "score": "3",
+        "winner": true
+      },
+      "away": {
+        "id": "388",
+        "abbr": "COV",
+        "name": "Coventry City",
+        "score": "0",
+        "winner": false
+      }
+    },
+    {
+      "id": "401879226",
+      "name": "Brentford at Manchester United",
+      "shortName": "BRE @ MAN",
+      "date": "2026-11-28T15:00Z",
+      "state": "post",
+      "status": "FT",
+      "completed": true,
+      "home": {
+        "id": "360",
+        "abbr": "MAN",
+        "name": "Manchester United",
+        "score": "0",
+        "winner": false
+      },
+      "away": {
+        "id": "337",
+        "abbr": "BRE",
+        "name": "Brentford",
+        "score": "4",
+        "winner": true
+      }
+    },
+    {
+      "id": "401878752",
+      "name": "Aston Villa at Ipswich Town",
+      "shortName": "AVL @ IPS",
+      "date": "2026-11-28T17:30Z",
+      "state": "post",
+      "status": "FT",
+      "completed": true,
+      "home": {
+        "id": "373",
+        "abbr": "IPS",
+        "name": "Ipswich Town",
         "score": "2",
         "winner": false
       },
       "away": {
-        "id": "363",
-        "abbr": "CHE",
-        "name": "Chelsea",
-        "score": "0",
+        "id": "362",
+        "abbr": "AVL",
+        "name": "Aston Villa",
+        "score": "2",
         "winner": false
       }
     }
